@@ -1,4 +1,4 @@
-# Cafe Sales Performance & Data Cleaning Analysis (2023)
+#  Cafe Sales Performance & Data Cleaning Analysis (2023)
 
 ##  Project Overview
 This repository contains an end-to-end data analytics project using a 2023 cafe sales dataset. The project demonstrates the entire data lifecycle: moving from a highly chaotic, error-ridden raw dataset (`dirty_cafe_sales.csv`) containing **10,000 rows**, to a fully optimized, cleaned, and modeled spreadsheet (`Cafe Sales Performance Analysis (2023).xlsx`) supporting automated business insights.
@@ -16,7 +16,7 @@ The analysis was driven by four critical business questions aimed at optimizing 
 
 ---
 
-## Deep-Dive Data Cleaning & Processing (The Core Effort)
+##  Deep-Dive Data Cleaning & Processing (The Core Effort)
 Data integrity was the highest priority. The raw file (`dirty_cafe_sales.csv`) suffered from massive formatting issues, structural anomalies, and missing elements. The following data cleaning steps were executed directly to ensure professional-grade analysis:
 
 * **Handling Null & Missing Values:** 
@@ -30,7 +30,7 @@ Data integrity was the highest priority. The raw file (`dirty_cafe_sales.csv`) s
 
 ---
 
-## Business Insights & Findings
+##  Business Insights & Findings
 
 Using advanced **Pivot Tables** and structured filtering, the aggregated data revealed the definitive financial performance of 2023:
 
@@ -39,9 +39,10 @@ Using advanced **Pivot Tables** and structured filtering, the aggregated data re
 * ** Lowest-Performing Product:** **Smoothie** was identified as the lowest core performing item on the menu, generating **3,292 units** sold.
 
 ###  Interactive Dashboard & Visualization
-A professional **Horizontal Bar Chart** titled `Sales Performance & Total Revenue per Item (2023)` was constructed next to the data model. It instantly maps out the variance between volume sales and revenue velocity, allowing stakeholders to grasp the cafe's financial landscape in seconds.
+The analysis includes a customized Horizontal Bar Chart showcasing the volume sales and revenue velocity to grasp the cafe's financial landscape in seconds:
 
-![Cafe Sales Chart](Sales Performance & Total Revenue per Item (2023).png)
+![Sales Performance Chart](Sales%20Performance%20&%20Total%20Revenue%20per%20Item%20(2023).png)
+
 ---
 
 ##  Repository Structure
