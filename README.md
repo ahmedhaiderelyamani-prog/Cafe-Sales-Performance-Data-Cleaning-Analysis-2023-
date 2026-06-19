@@ -41,6 +41,7 @@ Using advanced **Pivot Tables** and structured filtering, the aggregated data re
 ###  Interactive Dashboard & Visualization
 A professional **Horizontal Bar Chart** titled `Sales Performance & Total Revenue per Item (2023)` was constructed next to the data model. It instantly maps out the variance between volume sales and revenue velocity, allowing stakeholders to grasp the cafe's financial landscape in seconds.
 
+![Cafe Sales Chart](Sales Performance & Total Revenue per Item (2023).png)
 ---
 
 ##  Repository Structure
